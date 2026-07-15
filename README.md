@@ -2,6 +2,9 @@
 
 A badminton swing speed tracker built for OPPO Watch 3 (Wear OS). Uses the watch's accelerometer to detect swings, estimate racket-head speed, and log training sessions.
 
+[中文](README_CN.md) | [日本語](README_JP.md)
+
+
 ![Platform](https://img.shields.io/badge/platform-Wear%20OS-4285F4)
 ![Language](https://img.shields.io/badge/language-Java-DD4B39)
 ![API](https://img.shields.io/badge/minSDK-28-3DDC84)
