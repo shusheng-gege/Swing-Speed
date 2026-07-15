@@ -72,13 +72,13 @@ HistoryActivity             — ListView of past sessions with delete-on-long-pr
 3. **Run → Run 'app'** → select your watch or emulator
 
 ### Build APK manually
-`ash
+`bash
 ./gradlew :app:assembleDebug
 # Output: app/build/outputs/apk/debug/app-debug.apk
 `
 
 ### Install via ADB
-`ash
+`bash
 adb install app/build/outputs/apk/debug/app-debug.apk
 `
 
