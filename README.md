@@ -1,4 +1,4 @@
-# Swing Speed - OPPO Watch 3
+﻿# Swing Speed - OPPO Watch 3
 
 A badminton swing speed tracker built for OPPO Watch 3 (Wear OS). Uses the watch's accelerometer to detect swings, estimate racket-head speed, and log training sessions.
 
@@ -23,7 +23,7 @@ A badminton swing speed tracker built for OPPO Watch 3 (Wear OS). Uses the watch
 
 | Main Screen | History |
 |-------------|---------|
-| ![Main](docs/screenshot_main.png) | ![History](docs/screenshot_history.png) |
+| ![Main](/screenshot_main.png) | ![History](/screenshot_history.png) |
 
 ## Tech Stack
 
@@ -52,11 +52,11 @@ The detector uses a phase state machine (IDLE → ACTIVE) to identify valid swin
 
 `
 MainActivity                — UI, sensor registration, screen wake lock
-  └─ VibratingCountDetector — Phase-state swing detection algorithm
-  └─ DatabaseHelper         — SQLite CRUD for training records
+  VibratingCountDetector — Phase-state swing detection algorithm
+  DatabaseHelper         — SQLite CRUD for training records
 
 HistoryActivity             — ListView of past sessions with delete-on-long-press
-  └─ TrainingRecord         — Data model (id, timestamp, count, avgSpeed, maxSpeed)
+  TrainingRecord         — Data model (id, timestamp, count, avgSpeed, maxSpeed)
 `
 
 ## Building
