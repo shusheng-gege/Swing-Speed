@@ -84,29 +84,38 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 
 ## Project Structure
 
-`
-app/src/main/
-├── AndroidManifest.xml
-├── java/com/opposport/badminton/vibrationapp/
-│   ├── MainActivity.java              # UI + sensor handling
-│   ├── HistoryActivity.java           # Training history list
-│   ├── VibratingCountDetector.java    # Swing detection algorithm
-│   ├── DatabaseHelper.java            # SQLite helper
-│   └── TrainingRecord.java            # Data model
-└── res/
-    ├── drawable/                      # Icon vectors, card backgrounds
-    ├── layout/
-    │   ├── activity_main.xml          # Main screen (square-optimized)
-    │   ├── activity_history.xml       # History screen
-    │   └── item_history.xml           # History row layout
-    ├── mipmap-anydpi-v26/             # Adaptive icon (API 26+)
-    ├── mipmap-*/                      # Raster icon fallbacks
-    └── values/
-        ├── colors.xml                 # Semantic color tokens
-        ├── dimens.xml                 # Spacing & type scale
-        ├── strings.xml                # UI strings
-        └── styles.xml                 # Theme & component styles
-`
+```
+app/
+  src/main/
+    AndroidManifest.xml
+    java/com/opposport/badminton/vibrationapp/
+      MainActivity.java              # UI + sensor handling
+      HistoryActivity.java           # Training history list
+      VibratingCountDetector.java    # Swing detection algorithm
+      DatabaseHelper.java            # SQLite helper
+      TrainingRecord.java            # Data model
+    res/
+      drawable/                      # Icon vectors, card backgrounds
+      layout/
+        activity_main.xml            # Main screen (square-optimized)
+        activity_history.xml         # History screen
+        item_history.xml             # History row layout
+      mipmap-anydpi-v26/             # Adaptive icon (API 26+)
+      mipmap-*/                      # Raster icon fallbacks
+      values/
+        colors.xml                   # Semantic color tokens
+        dimens.xml                   # Spacing & type scale
+        strings.xml                  # UI strings
+        styles.xml                   # Theme & component styles
+  build.gradle                       # App module build config
+  proguard-rules.pro
+build.gradle                         # Root build file
+gradle.properties
+gradlew / gradlew.bat
+gradle/wrapper/
+local.properties
+settings.gradle
+```
 
 ## License
 
