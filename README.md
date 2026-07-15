@@ -23,7 +23,7 @@ A badminton swing speed tracker built for OPPO Watch 3 (Wear OS). Uses the watch
 
 | Main Screen | History |
 |-------------|---------|
-| ![Main](/screenshot_main.png) | ![History](/screenshot_history.png) |
+| ![Main](docs/screenshot_main.png) | ![History](docs/screenshot_history.png) |
 
 ## Tech Stack
 
