@@ -1,0 +1,34 @@
+com.opposport.badminton.vibrationapp-lifecycle-viewmodel-savedstate-2.6.1-0 C:\Users\Administrator\.gradle\caches\transforms-3\01ed3ae14753b866d6d75ba9dbeaa214\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.opposport.badminton.vibrationapp-lifecycle-livedata-2.6.1-1 C:\Users\Administrator\.gradle\caches\transforms-3\05f650d86b2761151b28abaa62dcd69b\transformed\lifecycle-livedata-2.6.1\res
+com.opposport.badminton.vibrationapp-lifecycle-runtime-2.6.1-2 C:\Users\Administrator\.gradle\caches\transforms-3\06a553e5c1ecea84bd47a1acb484ecc6\transformed\lifecycle-runtime-2.6.1\res
+com.opposport.badminton.vibrationapp-transition-1.2.0-3 C:\Users\Administrator\.gradle\caches\transforms-3\0a70983589d9f234b226c0d0dd105c5b\transformed\transition-1.2.0\res
+com.opposport.badminton.vibrationapp-appcompat-1.6.1-4 C:\Users\Administrator\.gradle\caches\transforms-3\11870197f648053c3c0c98e710542d77\transformed\appcompat-1.6.1\res
+com.opposport.badminton.vibrationapp-annotation-experimental-1.3.0-5 C:\Users\Administrator\.gradle\caches\transforms-3\2a9bd8fff66ce355ea590f7f68dff828\transformed\annotation-experimental-1.3.0\res
+com.opposport.badminton.vibrationapp-profileinstaller-1.3.0-6 C:\Users\Administrator\.gradle\caches\transforms-3\2b59d3c49e979de4c0530f718aace79d\transformed\profileinstaller-1.3.0\res
+com.opposport.badminton.vibrationapp-coordinatorlayout-1.1.0-7 C:\Users\Administrator\.gradle\caches\transforms-3\328ccbe9965668693a40ccc6a3fa6e43\transformed\coordinatorlayout-1.1.0\res
+com.opposport.badminton.vibrationapp-core-runtime-2.2.0-8 C:\Users\Administrator\.gradle\caches\transforms-3\3d579bc9065433609c8f7ac0c001dd77\transformed\core-runtime-2.2.0\res
+com.opposport.badminton.vibrationapp-lifecycle-viewmodel-2.6.1-9 C:\Users\Administrator\.gradle\caches\transforms-3\4265650e425b10d83a515e6e38bdb563\transformed\lifecycle-viewmodel-2.6.1\res
+com.opposport.badminton.vibrationapp-startup-runtime-1.1.1-10 C:\Users\Administrator\.gradle\caches\transforms-3\42a959ba2cf333d020e7e106f3f9e3ff\transformed\startup-runtime-1.1.1\res
+com.opposport.badminton.vibrationapp-recyclerview-1.1.0-11 C:\Users\Administrator\.gradle\caches\transforms-3\4df13ba3032636bbd379bc4545b30b3a\transformed\recyclerview-1.1.0\res
+com.opposport.badminton.vibrationapp-core-ktx-1.9.0-12 C:\Users\Administrator\.gradle\caches\transforms-3\516624086e07e713a028ee1f76b072f6\transformed\core-ktx-1.9.0\res
+com.opposport.badminton.vibrationapp-cardview-1.0.0-13 C:\Users\Administrator\.gradle\caches\transforms-3\533d5e31d9211b14f1a442db90cdd8f3\transformed\cardview-1.0.0\res
+com.opposport.badminton.vibrationapp-lifecycle-process-2.6.1-14 C:\Users\Administrator\.gradle\caches\transforms-3\572cc3cc8001db80244586538b0dc319\transformed\lifecycle-process-2.6.1\res
+com.opposport.badminton.vibrationapp-constraintlayout-2.0.1-15 C:\Users\Administrator\.gradle\caches\transforms-3\5beef252d61977806ad9b4a3b6010ead\transformed\constraintlayout-2.0.1\res
+com.opposport.badminton.vibrationapp-appcompat-resources-1.6.1-16 C:\Users\Administrator\.gradle\caches\transforms-3\5d00d21cc436dc42e14b652126b4b9f5\transformed\appcompat-resources-1.6.1\res
+com.opposport.badminton.vibrationapp-viewpager2-1.0.0-17 C:\Users\Administrator\.gradle\caches\transforms-3\700ccc7ed9c2344d968018249bd87eb9\transformed\viewpager2-1.0.0\res
+com.opposport.badminton.vibrationapp-lifecycle-livedata-core-2.6.1-18 C:\Users\Administrator\.gradle\caches\transforms-3\72d415f29af4a01692e166e17378baf8\transformed\lifecycle-livedata-core-2.6.1\res
+com.opposport.badminton.vibrationapp-activity-1.8.0-19 C:\Users\Administrator\.gradle\caches\transforms-3\7fbb1a2f5e922c07f8ce78bc0de973e2\transformed\activity-1.8.0\res
+com.opposport.badminton.vibrationapp-material-1.11.0-20 C:\Users\Administrator\.gradle\caches\transforms-3\8e6aa70318d82e0ea8391c77eeb8a9f3\transformed\material-1.11.0\res
+com.opposport.badminton.vibrationapp-emoji2-1.2.0-21 C:\Users\Administrator\.gradle\caches\transforms-3\921ac1591b8baf1e14ffef234ea4ea7c\transformed\emoji2-1.2.0\res
+com.opposport.badminton.vibrationapp-emoji2-views-helper-1.2.0-22 C:\Users\Administrator\.gradle\caches\transforms-3\99c0893f7e5ccefeb5354bcf4a9a6dad\transformed\emoji2-views-helper-1.2.0\res
+com.opposport.badminton.vibrationapp-fragment-1.3.6-23 C:\Users\Administrator\.gradle\caches\transforms-3\a32f0fc394ec8eb2e785217d1c19de4d\transformed\fragment-1.3.6\res
+com.opposport.badminton.vibrationapp-core-1.9.0-24 C:\Users\Administrator\.gradle\caches\transforms-3\be041eb7ac8d90fdb70618a68cefe5c0\transformed\core-1.9.0\res
+com.opposport.badminton.vibrationapp-drawerlayout-1.1.1-25 C:\Users\Administrator\.gradle\caches\transforms-3\e6484c0074115a2c6263a1c329e253aa\transformed\drawerlayout-1.1.1\res
+com.opposport.badminton.vibrationapp-savedstate-1.2.1-26 C:\Users\Administrator\.gradle\caches\transforms-3\fa7e72a4e74a6caf222ccd66e03149c3\transformed\savedstate-1.2.1\res
+com.opposport.badminton.vibrationapp-pngs-27 C:\Users\Administrator\Documents\oppo watch\app\build\generated\res\pngs\debug
+com.opposport.badminton.vibrationapp-resValues-28 C:\Users\Administrator\Documents\oppo watch\app\build\generated\res\resValues\debug
+com.opposport.badminton.vibrationapp-packageDebugResources-29 C:\Users\Administrator\Documents\oppo watch\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.opposport.badminton.vibrationapp-packageDebugResources-30 C:\Users\Administrator\Documents\oppo watch\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.opposport.badminton.vibrationapp-merged_res-31 C:\Users\Administrator\Documents\oppo watch\app\build\intermediates\merged_res\debug
+com.opposport.badminton.vibrationapp-debug-32 C:\Users\Administrator\Documents\oppo watch\app\src\debug\res
+com.opposport.badminton.vibrationapp-main-33 C:\Users\Administrator\Documents\oppo watch\app\src\main\res

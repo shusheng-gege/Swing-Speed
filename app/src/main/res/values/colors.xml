@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- brand -->
+    <color name="brand_green">#22C55E</color>
+    <color name="brand_green_dark">#16A34A</color>
+    <color name="brand_amber">#F59E0B</color>
+
+    <!-- background surfaces -->
+    <color name="bg_base">#000000</color>
+    <color name="bg_surface">#121829</color>
+    <color name="bg_surface_raised">#1B2236</color>
+    <color name="bg_scrim">#99000000</color>
+
+    <!-- text -->
+    <color name="text_primary">#F1F5F9</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_tertiary">#64748B</color>
+
+    <!-- semantic -->
+    <color name="success">#22C55E</color>
+    <color name="warning">#F59E0B</color>
+    <color name="divider">#1E293B</color>
+
+    <!-- legacy aliases (kept for compatibility) -->
+    <color name="green_primary">@color/brand_green</color>
+    <color name="green_dark">@color/brand_green_dark</color>
+    <color name="orange_accent">@color/brand_amber</color>
+    <color name="background_dark">@color/bg_base</color>
+    <color name="text_white">@color/text_primary</color>
+    <color name="text_gray">@color/text_secondary</color>
+    <color name="ic_launcher_background">@color/brand_green</color>
+</resources>

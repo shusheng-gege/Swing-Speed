@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- speedometer arc -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M54,90 C30.2,90 12,71.8 12,48 L18,48 C18,68.9 33.1,84 54,84 Z" />
+
+    <!-- speedometer ticks -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,16 L56,30 L52,30 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,28 L72,38 L69,35 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M90,48 L78,50 L78,46 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,28 L36,38 L39,35 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,48 L30,50 L30,46 Z" />
+
+    <!-- speedometer needle -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,50 L78,38 L54,54 Z" />
+
+    <!-- speedometer hub -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,46 C56,48 56,52 54,54 C52,52 52,48 54,46 Z" />
+
+    <!-- shuttlecock body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,70 L40,70 L34,90 Z" />
+
+    <!-- shuttlecock feathers -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,70 L18,60 L30,66 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,70 L50,60 L38,66 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M28,70 L22,56 L32,64 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M40,70 L46,56 L36,64 Z" />
+
+    <!-- motion lines -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M60,70 L80,68 L80,72 Z" />
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M62,80 L84,78 L84,82 Z" />
+
+</vector>

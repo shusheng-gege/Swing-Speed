@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Swing Speed</string>
+
+    <!-- main screen -->
+    <string name="label_speed">当前速度</string>
+    <string name="label_avg">平均</string>
+    <string name="label_count">次</string>
+    <string name="unit_kmh">km/h</string>
+    <string name="speed_zero">0.0</string>
+    <string name="avg_zero">0.0</string>
+    <string name="count_zero">0</string>
+    <string name="speed_format">%.1f</string>
+    <string name="avg_prefix">avg</string>
+
+    <!-- buttons -->
+    <string name="btn_reset">重置</string>
+    <string name="btn_history">历史</string>
+    <string name="btn_back">返回</string>
+
+    <!-- feedback -->
+    <string name="toast_reset">reset done</string>
+    <string name="toast_no_accelerometer">no accelerometer found</string>
+
+    <!-- history -->
+    <string name="title_history">Training History</string>
+    <string name="empty_history">No training records yet</string>
+    <string name="history_row_format">%1  |  swings: %2  |  avg: %3$.0f km/h</string>
+</resources>
